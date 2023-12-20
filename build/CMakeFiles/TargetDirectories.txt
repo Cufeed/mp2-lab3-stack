@@ -1,0 +1,6 @@
+F:/repos/mp2-lab3-stack/template_vector/build/CMakeFiles/ALL_BUILD.dir
+F:/repos/mp2-lab3-stack/template_vector/build/CMakeFiles/ZERO_CHECK.dir
+F:/repos/mp2-lab3-stack/template_vector/build/gtest/CMakeFiles/gtest.dir
+F:/repos/mp2-lab3-stack/template_vector/build/stack/CMakeFiles/stack.dir
+F:/repos/mp2-lab3-stack/template_vector/build/stacklib/CMakeFiles/STATIC.dir
+F:/repos/mp2-lab3-stack/template_vector/build/stacktest/CMakeFiles/stacktest.dir
